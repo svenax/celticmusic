@@ -1,5 +1,7 @@
 \version "2.16.0"
 
+\include "common.ly"
+
 \score {
   \relative c'' {
     \key d \major
