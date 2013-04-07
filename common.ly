@@ -11,3 +11,7 @@
     \remove "Bar_number_engraver"
   }
 }
+
+three = #(define-music-function (parser location music) (ly:music?) #{
+    \times 2/3 { $music }
+#})
