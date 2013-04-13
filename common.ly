@@ -1,6 +1,17 @@
+\version "2.16.0"
+
+today = #(strftime "%e %B, %Y" (localtime (current-time)))
+
 \paper {
   print-all-headers = ##t
   ragged-bottom = ##t
+
+  tagline = \markup {
+    \line {
+      "Sven Axelsson, Göteborg, Sweden"
+      \concat { "(rev. " \today ")" }
+    }
+  }
 }
 
 \layout {
