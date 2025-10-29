@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Make Tune",
+            "type": "shell",
+            "command": "just make ${file} && just view ${file}",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "close": true
+            }
+        }
+	]
+}
