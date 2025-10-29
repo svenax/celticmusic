@@ -1,4 +1,4 @@
-\version "2.16.0"
+\version "2.24.0"
 
 today = #(strftime "%e %B, %Y" (localtime (current-time)))
 
@@ -21,8 +21,14 @@ today = #(strftime "%e %B, %Y" (localtime (current-time)))
     \Score
     \remove "Bar_number_engraver"
   }
+
+  \context {
+    \Voice
+    % Always display a tuplet bracket.
+    \override TupletBracket.bracket-visibility = ##t
+  }
 }
 
-three = #(define-music-function (parser location music) (ly:music?) #{
-    \times 2/3 { $music }
+three = #(define-music-function (music) (ly:music?) #{
+  \tuplet 3/2 { $music }
 #})

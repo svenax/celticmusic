@@ -1,6 +1,6 @@
-\version "2.16.0"
+\version "2.24.0"
 
-\include "common.ly"
+\include "../common.ly"
 
 \score {
   \relative c'' {
@@ -47,6 +47,7 @@
       \three { fis8 c g } \three { e'8 c g } \three { d'8 b g } fis'8. e16 |
       \three { d8 cis d } e8. fis16 g4
     }
+    \fine
   }
 
   \header {
