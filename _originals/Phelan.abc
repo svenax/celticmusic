@@ -1,0 +1,285 @@
+%abc-2.1
+%%writefields RS
+%% Comhaltas Ceoltóirí Éireann
+%% From flute and whistle classes with Peter Phelan
+%% in Monkstown 1990-1992
+
+X:1
+T:The Blackthorn Stick
+M:6/8
+R:Jig
+S:phelan-1/03
+L:1/8
+K:G
+d | gfg ege | dBG AGE | DGG FGA | BGB A2d  |
+    gfg ege | dBG AGE | DGG FGA | BGG G2  ||
+d | edd gdd | edd gdd | ede gfg | edB A2d  |
+    gfg age | dBG AGE | DGG FGA | BGG G2   |]
+
+X:2
+T:Planxty John Irwin
+M:6/8
+R:Jig
+S:phelan-1/06
+L:1/8
+K:G
+d | g2f  e>fg | d2c  B>AG | c2A B>cd | F2G  A2d   |
+    g2f  e>fg | d2c  B>AG | c2A B>cd | G2F  G2   ||
+d | g>ag g>fg | a>ba a>fd | b2b a>bg | f>ge d>ef  |
+    g2f  e>fg | d2c  B>AG | c2A B>cd | G2F  G2    |]
+
+X:3
+T:The Fairies Hornpipe
+M:4/4
+R:Hornpipe
+S:phelan-1/08
+L:1/8
+K:G
+BAG2 GABG | cBAG ABG2 | Bcdg fged | cBce dBA2  |
+Bcdg gfg2 | fede dcB2 | AGAB cAdc | AFG2 GFG2 ||
+Bcdg gfg2 | fede dcB2 | AGAB cAed | cBA2 d2d2  |
+Bcdg gfg2 | fede dcB2 | AGAB cAdc | AFG2 GFG2  |]
+
+X:4
+T:The Primrose Lass
+M:C|
+R:Reel
+S:phelan-1/10
+L:1/8
+K:G
+B2BA G2GE | DEGA BAA2 | BBA2 GGE2 | DEFA    BGG2  |
+BBA2 GGE2 | DEGA BAA2 | dcBA G2GE | DEGA    BGG2 ||
+Bdgd edge | Bdgd BAA2 | Bdgd edgd | B{c}BAc BGG2  |
+Bdgd edgd | Bdgd BAA2 | Bdef gge2 | dBAc    BGG2  |]
+
+X:5
+T:Coolea Slide No. 1
+M:12/8
+R:Slide
+S:phelan-1/11
+L:1/8
+K:D
+    dcd e2d c2E EFG | ~B3 BAG F2D DFA  |
+    dcd e2d c2E EFG | ABA GFE D3  DFA ||
+    F2A d3  c2B G3  | ABA GFE B2A F3   |
+    F2A d3  c2B G3  | FEF ABc d3  d2  ||
+A | ded d2e f2d A3  | fgf fed cBc ecA  |
+    ded d2e f2d A3  | FEF ABc d3  d2  ||
+f | a2f f2d Adf agf | g2e e2c ABc def  |
+    a2f f2d Adf agf | gfe ABc d3  d3   |]
+
+X:22
+T:Róisín dubh
+M:4/4
+R:Air
+S:phelan-1/12
+N:This is not Phelan's version but from here: http://bit.ly/1cqBldk
+N:They are fairly similar, though. Will fix later.
+L:1/8
+K:D
+A4 FA    | D4    FA       | e4     de       | f3    e dB   |
+AF E4    | DE    F2 (3EFE | D6              | (3def       ||
+g3 f  ed | fe/d/ cA AB/A/ | FA     e4       | de    f4     |
+e2 d4    | (3def          | g3     f ed     | fe/d/ cA BA  |
+FA e4    | de    f3 e     | d3/2B/ A2 FA    | D2    FA e2  |
+de f2 e2 | dB    AF E2    | DE     F2 (3EFE | D6          ||
+
+X:6
+T:The Clontarf Lass
+M:6/8
+R:Jig
+S:phelan-1/33
+L:1/8
+K:D
+FAd fed | cBc    ecA | FAd fed | cde ggg  |
+FAd fed | cBc    ecA | dAF GBd | Ace d3  :|
+faf ggg | faf    eee | dfa afa | bge efg  |
+faf ggg | (3fgaf eee | dAF GBd | Ace d3  :|
+
+X:7
+T:The Heather Breeze
+M:C|
+R:Reel
+S:phelan-1/34
+L:1/8
+K:G
+DGBG dGBG | DFAF cFAF | DGBG dBGA | BcAB GGGG | 
+DGBG dGBG | DFAB ccAF | DGBG dGBG | ABcA BGBd || 
+gggf gbag | fdde fgaf | gggf gbag | fdcA BGBd | 
+gggf gbag | fdde fgaf | gfga bbag | fdcA BGAF || G4|] 
+
+X:8
+T:Eibhlí Gheal Chúin
+T:Gentle Fair Elly
+M:6/8
+R:Air
+S:phelan-2/32
+L:1/8
+K:G
+A | A>Bd e>de | f>ed e>de | f>ed d<BA | A3   ~A2A |
+    A>Ba e>de | f>ed e>de | f>ed d<BA | A3   ~A2e |
+    e>fg a>ba | a>gf e>dB | e>fg a>ba | g>fe d3   |
+    e>fg a>ba | a>gf e>de | f>ed d<BA | A3   A2   |]
+
+X:9
+T:Mist on the Meadows
+M:6/8
+R:Jig
+S:phelan-2/34
+L:1/8
+K:G
+d | g2B BAB | GBA GBd | g2B BAB | GBd e2f  |
+    g2B BAB | GBA GBd | gfe fdB | ABd e2  :|
+f | g2g bag | fef afd | g2g bag | fed e2f  |
+    g2g bag | fef afd | gfe fdB | ABd e2  :|
+
+X:10
+T:Brennan's Reel
+M:C|
+R:Reel
+S:phelan-2/35
+L:1/8
+K:D
+    D2FA d2ed | cdBd AFFF | B2GB ABFA | BFAF E2FE  |
+    D2FA d2ef | edBd AFFF | BAGB ABdf | afge      [1 d4 :|2 d3 |:
+e | f2df efde | fedB AFFF | B2GB ABFA | BFAF E2de  |
+    f2df efde | fedB AFFF | BAGB ABdf | afge d3   :|
+
+X:11
+T:Joe Fahey's Favourite
+M:4/4
+R:Hornpipe
+S:phelan-2/35-x
+L:1/8
+K:D
+FG | AF   (3EFE D2de | fedB A2Bc | dedB AFDF | EDEF E2FG  |
+     AF   (3EFE D2de | fedB A2Bc | dedB AFDF | EDEF D2   :|
+de | fdgf e2dB       | AFAB A2de | fdgf e2de | fede f3f   |
+     fedB A2FG       | AFAB A2Bc | dedB AFDF | EDEF D2   :|
+
+X:12
+T:Caroline O'Neill's Hornpipe
+M:4/4
+R:HornpipeS:phelan-2/36
+L:1/8
+K:GBc | (3d^cd gd     BGAB | (3cBc ec   AGFA | DGBG  FGAF       | GB    (3def gdBc  |
+     (3ded  (3d^cd BGAB | cBAG  FGAF      | GBdg  ecAc       | BGGF  G2         :|
+Bd | gfef   gdBd        | (3efe ce   dBGB | edce  dcBd       | (3gab (3gfe d2ef  |
+     gfed   cBAG        | FGAB  cdef      | (3gba (3gfe dcBA | BGGF  G2         :|
+
+X:13
+T:Speed the Plough
+M:C|
+R:Reel
+S:phelan-2/37
+L:1/8
+K:G
+D | GGGB  dBBB      | gBfB eBdB | c2cA B2BG | Ad^cd ed=cA  |
+    GGGB  dBBB      | gBfB eBdB | c2cA BGGG | AGFA  G3    :|
+d | (3gag fa   gBBB | gBfB eBdB | c2cA B2Bg | Ad^cd ed=cA  |
+    g2fa  gBBB      | gBfB eBdB | c2cA BGGG | AGFA  G3d   ||
+    GGGa  gBBB      | gBfB eBdB | c2cA B2Bg | Ad^cd ed=cA  |
+    GGGB  dBBB      | gBfB eBdB | c2cA BGGG | AGFA  G3     |]
+
+X:14
+T:Leo Rowsome's Reel
+M:C|
+R:Reel
+S:phelan-2/39
+L:1/8
+K:D
+(3ABA FA   DAFA     | (3Bcd Ad   fdec | (3BcB GB    EBGB     | (3BAB ef    gece  |
+dAFA  DAFA          | (3Bcd Ad   fdec | (3dcB (3cBA (3Bcd AF | GEAG  FD    D2   :|
+(3aba fd   eA (3AGA | (3Bcd Ad   fdfa | b2    gb    ebgb     | (3aba (3faf dfag  |
+(3fga fd   (3Bcd Ad | fdec  defa      | (3bag af    gfed     | ceag  fd    d2   :|
+
+X:15
+T:The Flowers of Spring
+M:6/8
+R:Jig
+S:phelan-2/40
+L:1/8
+K:G
+AAA ABd | edB G2B | dBB gBB    | ABd efg  |
+AAA ABd | edB G2B | dBB gBB    | ABG A3  :|
+age a2b | age edB | AGE G2A    | BAB GED  |
+age a2b | age edB | AGE G2A    | BAG A3  ||
+age a2b | age edB | AGE G2A    | BAB GED  |
+EDE G2A | BAG Bcd | egg (3efge | dBG A3   |]
+
+X:16
+T:The Hunters House (Revery's)
+M:C|
+R:Reel
+S:phelan-2/41
+L:1/8
+K:G
+     BcdB cAFA      | G2   BG   DGBG | BcdB cAFA | GBAG FGEF  |
+     DGGG AFFF      | BGAF GABc      | defg agfd | cAFA      [1 G4 :|2 G3 ||
+A |: B2   gB   aBgB | B2   gf   edcB | Aaaa baag | fgaf gfed  |
+     B2   gB   aBgB | B2   gf   edcB | cBAg fgaf | gdBd cAFA :| G4  |]
+
+X:17
+T:Sliabh na mBan
+T:Slievenamon
+M:3/4
+R:Air
+S:phelan-2/42
+N:Fix rythm
+L:1/8
+K:G
+D4EF     | G4   c2 | B4 A2 | G4 (3Bdg | a3 gfd/B/  | c6 |
+(3ABc d4 | edcB G2 | Bd c4 | B2 A4    |
+D4EF     | G4   c2 | B4 A2 | G4 (3Bdg | a3 gfd/B/  | c6 |
+(3ABc d4 | edcB G2 | c4 A2 | G4 F2    | G6        ||
+
+X:18
+T:The Humours of Ballyloughlin
+M:6/8
+R:Jig
+S:phelan-2/43a
+L:1/8
+K:G
+ABA AGE   | GED DED | cBc  ded | cAE  GED | A2  A   AGE | GEG cEA | DED  DFA | DED  D3 :|
+~c3 cAB   | cAG ABc | ~d3  dfe | dcA  DFA | c2  A   dcB | cAG FGE | DED  DFA | DED  D3 :|
+fdd gdd   | fdd ged | ^cde ged | ^cde ~g3 | fdd gdd     | fdd ged | ^cde gag | ed^c d3 :|
+ABA d2  A | ~F3 GED | ~E3  EFD | ~E3  EFG | AFA d2  A   | ~F3 GEA | DED  DFA | DED  D3 :|
+
+X:19
+T:Inisheer
+M:3/4
+R:Waltz
+S:phelan-2/43b
+L:1/8
+K:D
+D2 |  B3A Bd | B3A Bd | E3B AB    |  D3B AG        |
+      B3A Bd | B3A Bd | G3B (3AGF |1 G4           :|2 G3    ||
+   |: A   Bd | e3f ed | B3A Bd    |  ef  ed (3Bcd  |  e4 Bd  |
+      e3f ed | B3A Bd | G3B (3AGF |1 G3           :|2 G4     |]
+
+X:20
+T:Lucy Campbell
+M:C|
+R:Reel
+S:phelan-2/44
+L:1/8
+K:D
+(3ABA FA   D2 dB | ADFA BEEE      | (3ABA FA   defe  | dBAF ADDD  |
+(3ABA FA   D2 dB | ADFA BEEE      | (3ABA FA   defe  | dBAF ADDD ||
+dBAB  defe       | d2   cA   BEEE | dBAB  defe       | dBAF ADDD  |
+dBAB  defe       | dBBB gBBB      | dBAB  defe       | dBAF ADDD ||
+faaf  defg       | adfa bgef      | a2    af   defe  | dBAF ADDD  |
+faaf  defg       | adfa bgef      | g2    ge   f2 fe | dBAF ADDD ||
+dfff  dfef       | dfff afef      | dffe  ~f3  e     | dBAF ADDD  |
+dfff  dfef       | dfff afef      | ~g3   e    ~f3 e | dBAF ADDD  |]
+
+X:21
+T:Margarets Waltz
+M:3/4
+R:Waltz
+S:phelan-2/44
+L:1/8
+K:G
+GE | D2>E2 GA    | B4 GB    | AG E2 G2 | A2>A2 GE | D2>E2 GA    | B4dG    | B4 A2    | G4    :|
+Bc | d2    e2 f2 | g2 f2 g2 | ed cd ec | d2>d2 BA | G2>A2 (3BAG | d4   Bd | ed c2 B2 | A4 Bc  |
+     dG    eG fG | gG fG eG | dG cG BG | A2>B2 GE | D2>E2 GA    | B4   dG | B4 A2    | G4     |]
