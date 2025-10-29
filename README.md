@@ -1,5 +1,6 @@
-Traditional Northumbrian Music
-==============================
+Flute and Tin Whistle Music
+===========================
 
-Here I'll place assorted Northumbrian tunes, transposed to play on a D whistle or flute.
-Nothing fancy, just some tunes that I like.
+Mainly Irish and Northumbrian tunes. Nothing fancy, just some music that I like.
+
+Use the commands in `Justfile` for convenience.
