@@ -2,9 +2,7 @@
 
 \include "../common.ly"
 
-\score {
-  % Play AABBAACC
-  \relative c'' {
+music = \relative c'' {
     \key d \major
     \time 3/4
 
@@ -34,6 +32,7 @@
     }
     \break
 
+    \tag #'optional
     \repeat volta 2 {
       \three { fis,8 a d } |
       fis4. e8 d a |
@@ -59,7 +58,12 @@
       g2
     }
     \fine
-  }
+}
+
+\score {
+  #(if (ly:get-option 'include-optional)
+       #{ \music #}
+       #{ \removeWithTag #'optional \music #})
 
   \header {
     title = "Cascade"
