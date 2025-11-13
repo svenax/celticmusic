@@ -2,6 +2,8 @@
 
 today = #(strftime "%e %B, %Y" (localtime (current-time)))
 
+\pointAndClickOff
+
 \paper {
   print-all-headers = ##t
   ragged-bottom = ##t
