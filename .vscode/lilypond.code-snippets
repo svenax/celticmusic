@@ -1,0 +1,66 @@
+{
+  "Celtic Music Template": {
+    "prefix": "celtic-music",
+    "body": [
+      "\\version \"2.24.0\"",
+      "",
+      "\\include \"${1|../common.ly,../../common.ly,../../../common.ly|}\"",
+      "",
+      "\\score {",
+      "  \\relative c'' {",
+      "    \\time ${2|4/4,6/8,9/8,12/8,2/4,3/4|}",
+      "    \\key ${3|g,d,a|} \\major",
+      "",
+      "    % Part 1",
+      "    \\repeat volta 2 {",
+      "      $7",
+      "    }",
+      "    \\break",
+      "  }",
+      "",
+      "  \\header {",
+      "    title = \"$4\"",
+      "    ${5|subtitle,composer,meter,reference,volume,number|} = \"$6\"",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Template for Celtic music using relative pitches"
+  },
+
+  "Music Part": {
+    "prefix": "part",
+    "body": [
+      "% Part ${1:1}",
+      "\\repeat volta 2 {",
+      "  $2",
+      "}",
+      "\\break"
+    ],
+    "description": "Add a new musical part with repeat"
+  },
+
+  "Tuplet Three": {
+    "prefix": "three",
+    "body": [
+      "\\three { $1 }"
+    ],
+    "description": "Insert a triplet using the custom three function"
+  },
+
+  "Ornament Turn": {
+    "prefix": "turn",
+    "body": [
+      "$1\\turn"
+    ],
+    "description": "Add a turn ornament to a note"
+  },
+
+  "Acciaccatura": {
+    "prefix": "acc",
+    "body": [
+      "\\acciaccatura $1 $2"
+    ],
+    "description": "Add an acciaccatura (grace note)"
+  }
+}
