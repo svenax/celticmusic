@@ -34,7 +34,7 @@
 
       \alternative {
         { fis4. e8 d b | a2 a4 | }
-        { d4. e8 d cis | d2 | }
+        { d4. e8 d cis | d2. | }
       }
     }
     \fine
