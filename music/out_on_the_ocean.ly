@@ -47,5 +47,6 @@
   \header {
     title = "Out on the Ocean"
     meter = "Jig"
+    reference = "2/6"
   }
 }
