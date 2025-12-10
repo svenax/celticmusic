@@ -1,7 +1,3 @@
-\version "2.24.0"
-
-\include "../common.ly"
-
 music = \relative c'' {
     \key d \major
     \time 3/4

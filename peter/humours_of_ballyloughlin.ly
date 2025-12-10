@@ -1,7 +1,3 @@
-\version "2.24.0"
-
-\include "../common.ly"
-
 \score {
   \transpose c c' {
     \time 6/8
