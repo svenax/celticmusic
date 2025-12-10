@@ -1,0 +1,5 @@
+{
+    "vslilypond.compilation.additionalCommandLineArguments": "-I /Users/svenax/Documents/Sheetmusic/Celtic -dinclude-settings=./celtic_extra.ly",
+    "vslilypond.compilation.compileMainFileOnSave": false,
+    "vslilypond.compilation.compileOnSave": false
+}
